@@ -92,3 +92,11 @@ class Cart with ChangeNotifier {
     notifyListeners();
   }
 }
+// git init
+// git remote add origin https://github.com/aliev01azim/flutter-projects
+// git checkout -b shop-app
+// git add .
+// git commit -m 'asdad'
+// git push origin shop-app
+
+//
